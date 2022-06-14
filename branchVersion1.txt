@@ -1,2 +1,3 @@
 Change 1 in the second branch
 Change 2 in the second branch
+Change 3 in the second branch
